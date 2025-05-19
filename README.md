@@ -3,4 +3,4 @@ This is a personal pet-project of mine, an interactive mock‑OS shell built in 
 
 Still WIP!
  
-Note: This is purely a UI demo. There’s no real process scheduling, filesystem, or network stack - just polished visuals and placeholder functionality.
+>Note: This is purely a UI demo. There’s no real process scheduling, filesystem, or network stack - just polished visuals and placeholder functionality.
